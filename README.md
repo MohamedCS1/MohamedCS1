@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://www.sociohbook.com/public/storage/items/1638029330252.jpg"/>
+<img src="https://gowithcode.com/wp-content/uploads/2021/04/top-programming-languages.jpg"/>
 
 <p dir="auto"><strong>Languages and Tools:</strong></p>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
