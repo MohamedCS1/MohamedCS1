@@ -1,7 +1,7 @@
 
 <img src="https://wallpapercave.com/wp/wp9109396.jpg"/>
-I'm Mohamed mobile devlopper and designer from algeria 🇩🇿
-
+I am a passionate and highly effective Developer successful at building Android applications. Well-educated and
+poised with 3 years of expertise.
 
 <p dir="auto"><strong>Languages and Tools:</strong></p>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer" href="https://cdn-icons-png.flaticon.com/512/226/226770.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="max-width: 100%;"></a></code>
